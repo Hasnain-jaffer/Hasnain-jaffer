@@ -10,15 +10,13 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack MERN Developer** passionate about building modern, scalable, and user-friendly web applications. I specialize in developing complete web solutions — from designing responsive frontends to building powerful backend APIs.
-
-I enjoy turning ideas into real-world applications and continuously improving my skills by building projects and learning new technologies.
+I am a **Full Stack MERN Developer** passionate about building modern, scalable, and user-friendly web applications. I specialize in developing complete web solutions — from responsive frontends to robust backend APIs.
 
 - 🎓 BS Information Technology (2022–2026)  
-- 💻 Strong in **Frontend + Backend (MERN Stack)**  
-- ⚡ Also working with **Next.js for modern full-stack apps**  
+- 💻 Strong in **MERN Stack (Frontend + Backend)**  
+- ⚡ Building modern apps using **Next.js**  
 - 🐍 Using **Python as a secondary backend**  
-- 🧠 Currently learning **DSA & advanced backend concepts**  
+- 🧠 Learning **DSA & advanced backend concepts**  
 - 🎯 Goal: Become an **industry-level Full Stack Developer (.NET + MERN)**  
 
 ---
@@ -50,7 +48,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 
 ---
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -58,51 +56,42 @@ I enjoy turning ideas into real-world applications and continuously improving my
 
 ## 📌 Featured Projects
 
-### 🎵 Spotify Clone
-A modern UI clone focusing on clean design, responsiveness, and user experience.
+### 🛒 Ecommerce Full Stack Design
+A complete **MERN stack application** with frontend, backend APIs, and database integration. Demonstrates full-stack architecture and real-world functionality.
 
-### ✅ Todo List App
-A dynamic CRUD application demonstrating state management and logic building.
+### 🔗 BitLinks URL Shortener (Next.js)
+A **Next.js-based URL shortener** with dynamic routing and backend handling.
 
-### 🌍 Country Finder
-A fully functional API-based app that fetches and displays country data dynamically.
+### 🌐 Linktree Clone (Next.js)
+A modern **Linktree-style application** built using Next.js with clean UI and dynamic link management.
 
-### ☕ Starbucks Clone
-A pixel-perfect UI project showcasing frontend design and layout skills.
+### 🔐 Password Manager (React)
+A secure and interactive **password management app** with strong frontend logic.
 
-### 🧮 Calculator App
-A JavaScript-based calculator demonstrating strong fundamentals and DOM manipulation.
+### 📖 Recipe Book (React)
+A dynamic app to **store and manage recipes**, showcasing component structure and state management.
+
+### 🌍 Country Finder (React)
+An API-based application that fetches and displays **country data dynamically**.
+
+### ☕ Starbucks Clone (React)
+A pixel-perfect UI clone demonstrating strong frontend and design skills.
 
 ---
 
 ## 🔥 What Makes Me Different
 
 - I build **complete full-stack applications**, not just UI  
-- I focus on **real-world projects** instead of tutorials  
-- I combine **MERN + Next.js + Python** for flexibility  
+- I work with **MERN + Next.js + Python**  
+- I focus on **real-world, practical projects**  
 - I continuously improve through **hands-on development**  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasnain-jaffer&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain-jaffer&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hasnain-jaffer&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Current Focus
-- Building **Full Stack MERN applications**
-- Learning **Next.js deeply (SSR, full-stack apps)**
-- Improving **DSA & problem-solving**
+- Building **advanced full-stack MERN applications**
+- Mastering **Next.js (SSR & full-stack features)**
+- Improving **DSA & problem solving**
 - Exploring **.NET backend development**
 
 ---
@@ -114,18 +103,3 @@ A JavaScript-based calculator demonstrating strong fundamentals and DOM manipula
 
 ## ⚡ Fun Fact
 > I don’t just write code — I build real-world solutions 🚀
-
-<!--
-**Hasnain-jaffer/Hasnain-jaffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
