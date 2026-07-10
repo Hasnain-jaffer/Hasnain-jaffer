@@ -88,16 +88,17 @@ I'm a **Full Stack MERN Developer** passionate about building modern, scalable, 
 ## 📊 GitHub Stats
 
 <!--
-  NOTE: These now point to a self-hosted github-readme-stats deployment
-  instead of the shared github-readme-stats.vercel.app instance, which has
-  been intermittently down/paused since Dec 2025 due to overload on the
-  free public deployment. Replace "YOUR-DEPLOYMENT-URL" below with the
-  domain Vercel gives you after you deploy your own copy of
-  https://github.com/anuraghazra/github-readme-stats
+  NOTE: These now point to github-stats-extended.vercel.app instead of
+  github-readme-stats.vercel.app. The original public instance has been
+  intermittently down/paused since Dec 2025 (rate limits / deployment
+  pauses on the free shared endpoint). github-stats-extended is an
+  actively maintained fork built as a drop-in, publicly hosted
+  replacement — no deployment or account needed, same parameters,
+  just a different domain: https://github.com/stats-organization/github-stats-extended
 -->
 <p align="center">
-  <img src="https://YOUR-DEPLOYMENT-URL.vercel.app/api?username=Hasnain-jaffer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hasnain's GitHub Stats" width="48%"/>
-  <img src="https://YOUR-DEPLOYMENT-URL.vercel.app/api/top-langs/?username=Hasnain-jaffer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Hasnain-jaffer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hasnain's GitHub Stats" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hasnain-jaffer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
 <p align="center">
