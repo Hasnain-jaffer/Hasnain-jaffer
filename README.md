@@ -22,10 +22,14 @@ Full Stack Developer specializing in the MERN stack and Next.js, building produc
 
 ## 🚀 Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,socketio,mongodb,git,github,docker,postman,vercel&theme=dark" alt="Tech stack icons" />
+</p>
+
 **Frontend:** React.js · Next.js · JavaScript (ES6+) · Tailwind CSS · HTML5 · CSS3
 **Backend:** Node.js · Express.js · Socket.io
 **Database:** MongoDB · Mongoose
-**Tools:** Git · GitHub Actions · Docker · Postman · Vercel
+**Tools:** Git · GitHub · Docker · Postman · Vercel
 
 ---
 
@@ -43,7 +47,14 @@ Full Stack Developer specializing in the MERN stack and Next.js, building produc
 
 ## 📊 GitHub Stats
 
-[![Hasnain's GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=Hasnain-jaffer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Hasnain-jaffer)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hasnain-jaffer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hasnain's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain-jaffer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnain-jaffer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
